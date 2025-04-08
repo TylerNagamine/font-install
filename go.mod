@@ -1,4 +1,4 @@
-module github.com/Crosse/font-install
+module github.com/TylerNagamine/font-install
 
 require (
 	github.com/ConradIrwin/font v0.0.0-20190603172541-e12dbea4cf12
