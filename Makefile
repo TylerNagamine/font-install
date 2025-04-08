@@ -1,4 +1,4 @@
-package = github.com/Crosse/font-install
+package = github.com/TylerNagamine/font-install
 
 default: release
 
